@@ -7,9 +7,7 @@ A RESTful API for managing blog articles with CRUD operations.
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Installation
 
 To set up the project locally, follow these steps:
